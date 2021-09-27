@@ -1,4 +1,4 @@
-//package weekTwo.Exceptions;
+package com.exception.practice;
 
 public class BankingApplication {
 	public void BankApply(int age, String name)throws AgeException{

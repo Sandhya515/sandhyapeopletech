@@ -1,6 +1,6 @@
-//package weekTwo.Exceptions;
+package com.exception.practice;
 
-public class AgeException extends Exception{
+public class AgeException {
 	int age;
 	String name;
 	public AgeException(int age, String name) {

@@ -18,7 +18,6 @@ public class IncreasingNumber {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(isIncreasing(134468 ));
 
 	}
